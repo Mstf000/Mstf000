@@ -69,13 +69,11 @@
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 <br>
 
-<div align="center">
-
-<a href="https://github.com/Mstf000/">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mstf000&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="450"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Mstf000&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375"  alt="Mstf000"/>
-
-</a>
+<<div align="center">
+  <!-- Streak stats -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mstf000&" width="450"/>
+  <!-- Contribution stats -->
+  <img src="https://activity-graph.herokuapp.com/graph?username=Mstf000&bg_color=000000&color=7A7ADB&line=2234AE&point=D3D3D3&area=true&hide_border=true" width="450"/>
 </div>
 
 <br>
