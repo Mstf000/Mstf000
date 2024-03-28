@@ -73,7 +73,7 @@
   <!-- Streak stats with adjusted colors for a black background -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mstf000&background=000000&stroke=ffffff&ring=7A7ADB&fire=7A7ADB&currStreakNum=ffffff&sideNums=7A7ADB&currStreakLabel=ffffff&sideLabels=ffffff&dates=7A7ADB" width="450"/>
   <!-- Contribution stats with adjusted colors for a black background -->
-  <img src="https://activity-graph.herokuapp.com/graph?username=Mstf000&bg_color=000000&color=ffffff&line=7A7ADB&point=D3D3D3&area=true&hide_border=true" width="450"/>
+  
 </div>
 
 
